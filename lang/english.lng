@@ -1,8 +1,8 @@
 ##grflangid 0x01
 
 #Main grf title and description
-STR_GRF_NAME				:{TITLE}
-STR_GRF_DESCRIPTION			:{BLUE}{TITLE} {VERSION}{}{WHITE}{}The bicycle experience{}{}{BROWN}By Javelin{ORANGE}NL{}
+STR_GRF_NAME				:Velo - DROP Fork
+STR_GRF_DESCRIPTION			:{BLUE}{TITLE} {VERSION}{}{WHITE}{}The bicycle experience{}{}{BROWN}By Javelin{ORANGE}NL{}Edited by Erato to work with DROP
 STR_GRF_URL					:https://github.com/javelinnl/velo
 
 #
@@ -23,6 +23,3 @@ STR_NEW_ENGINE		:Bike lane
 #Vehicles
 
 STR_VEH1			:Grandma bike
-
-
-
